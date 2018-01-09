@@ -1,0 +1,1 @@
+This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). It exists only to reproduce a warning emitted during testing with Jest, and will deleted in the future.
